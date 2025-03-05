@@ -5,5 +5,5 @@
 4. SQL intermediate
 5. Agile 
 6. R&R Award certificate
-7. 
+7. Sustanablity certificate Capgemini
 
