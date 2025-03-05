@@ -3,7 +3,7 @@
 2. Test automation Level 1
 3. Java Basic 
 4. SQL intermediate
-5. Agile 
+5. Retail management.
 6. R&R Award certificate
 7. Sustanablity certificate Capgemini
 
